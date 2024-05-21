@@ -24,3 +24,4 @@
 " mandelbort_time.py " : 
 
 	This is a 'fun little' python script. It is designed as a benchmark test ~_~ which can generate mandelbort data and create an img of it. All this process is also timed by the program, and outputs the time taken by the machine to complete the task. The 'benchmark' test can be changed using the parametes in the code [ ' x_lim ', ' y_lim ', ' delta '].
+Module required to run this test : (1) numpy, (2) PIL (pillow), (3) timeit.
